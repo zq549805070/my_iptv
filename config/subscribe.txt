@@ -11,9 +11,9 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://amchls.wns.live/hls/stream.m3u8
-#https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-#https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-#https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+# https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+# https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+# https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 
 [WHITELIST]
