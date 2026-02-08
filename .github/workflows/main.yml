@@ -1,7 +1,7 @@
 name: 'Update schedule'
 on:
   schedule:
-    - cron: '25 7 * * *'
+    - cron: '30 7 * * *'
     
     # 示例：每天两次（UTC 02:00 和 14:00，北京时间 10:00 和 22:00）
     # - cron: '0 2,14 * * *'
@@ -21,7 +21,7 @@ jobs:
     steps:
       - name: Set branch name
         id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+        run: echo "BRANCH_NAME=${{ github.repository_owner ==  'main' }}" >> $GITHUB_ENV
       - uses: actions/checkout@v3
         with:
           ref: ${{ env.BRANCH_NAME }}
