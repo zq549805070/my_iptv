@@ -1,0 +1,13 @@
+dist
+build
+docs
+tkinter_ui
+**/*.log
+**/*.md
+static/images
+docs/images
+.git
+.github
+.gitignore
+.gitattributes
+utils/nginx-rtmp-win32
