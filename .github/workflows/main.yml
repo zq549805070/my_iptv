@@ -1,7 +1,7 @@
 name: 'Update schedule'
 on:
   schedule:
-    - cron: '30 7 * * *'
+    - cron: '40 7 * * *'
     
     # 示例：每天两次（UTC 02:00 和 14:00，北京时间 10:00 和 22:00）
     # - cron: '0 2,14 * * *'
@@ -19,12 +19,10 @@ jobs:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
     steps:
-      - name: Set branch name
-        id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner ==  'main' }}" >> $GITHUB_ENV
       - uses: actions/checkout@v3
         with:
-          ref: ${{ env.BRANCH_NAME }}
+          ref: main
+          
       - name: Run with setup-python 3.13
         uses: actions/setup-python@v4
         with:
