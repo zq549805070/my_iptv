@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-10 17:09:23,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-11 04:58:51,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -332,55 +332,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-🪁动画频道,#genre#
-动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
-动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
-动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
-动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-9.ctv
-动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-9.m3u8
-动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-2.m3u8
-新动漫,https://migu.188766.xyz/?migutoken=f91501369e53765e1a51f18b0ca1dba8&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
-新动漫,https://migu.188766.xyz/?migutoken=e2e296fe5225c1264e35aaade910ad35&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
-新动漫,https://migu.188766.xyz/?migutoken=4a5c03e739f2a6b8850bd1a2f995d474&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
-爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
-爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
-爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
-CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
-CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
-优漫卡通,https://stream1.freetv.fun/you-man-qia-tong-11.m3u8
-优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=7f7c4b909389a0cd5172701768041a0f3887534c4534a68bf1dc85550389e9ab156655484be16e89604513fde9da2f036ebae28d31515b0be32eb12462f5de9d9cab8f00c44671241d5c6e1356
-优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8
-
-🎵音乐频道,#genre#
-CCTV-15,https://migu.188766.xyz/?migutoken=5dd673c87bc56a235d792da58a827be2&id=CCTV15&type=yy
-CCTV-15,https://hls-gateway.vpstv.net/streams/476901.m3u8
-CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
-CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
-CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
-CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
-风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
-音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
-音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
-音乐广播,https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
-音乐广播,https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
-音乐广播,https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
-音乐广播,https://tv.iill.top/fm/552&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
-
-🏛经典剧场,#genre#
-西游记,https://live.iill.top/huya/26355861
-西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
-西游记,https://live.ottiptv.cc/huya/26355861
-三国演义,https://live.iill.top/huya/11602081
-水浒传,http://www.clmy.cc:35455/yy/1353873252
-
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -453,80 +404,3 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 靖天资讯,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-1.m3u8
-
-🎬电影频道,#genre#
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-12.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-13.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
-CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
-CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
-NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
-NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
-NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV惊悚悬疑,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-NewTV惊悚悬疑,http://iptv.666230.xyz/iptv/bjyd.php/7013
-NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
-NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
-纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
-纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
-纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
-靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
-靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
-靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
-靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
-靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
-靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
-靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
-靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-1.m3u8
-星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-星卫娱乐,generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
-经典电影,https://tv.iill.top/4gtv/201
-经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
-经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-8.ctv
-经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-15.ctv
-经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-1.ctv
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
-天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-天映经典,https://hls-gateway.vpstv.net/streams/709488.m3u8
-天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
-无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
-星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
-私人影院,starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
-龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
-东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
-东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
-东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
-东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern
-东森洋片,https://tv.iill.top/x/dsyp
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
-东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8

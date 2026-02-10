@@ -35,6 +35,8 @@ CGTN纪录,http://www.wmviv.com/iptv/bc2t.php?id=cgtnjl
 海峡卫视,http://www.wmviv.com/iptv/bc2t.php?id=hxws
 大湾区卫视,http://www.wmviv.com/iptv/bc2t.php?id=dwqws
 四海钓鱼,http://www.wmviv.com/iptv/bc2t.php?id=shdy
+CHC动作电影,http://www.wmviv.com/iptv/bc2t.php?id=chcdzdy
+CHC家庭影院,http://www.wmviv.com/iptv/bc2t.php?id=chcjtdy
 东方影视,http://www.wmviv.com/iptv/bc2t.php?id=dfys
 上海新闻综合,http://www.wmviv.com/iptv/bc2t.php?id=shxwzh
 上海第一财经,http://www.wmviv.com/iptv/bc2t.php?id=dycj
@@ -47,6 +49,7 @@ CGTN纪录,http://www.wmviv.com/iptv/bc2t.php?id=cgtnjl
 欢笑剧场,http://www.wmviv.com/iptv/bc2t.php?id=hxjc
 七彩戏剧,http://www.wmviv.com/iptv/bc2t.php?id=qcxj
 游戏风云,http://www.wmviv.com/iptv/bc2t.php?id=yxfy
+优漫卡通,http://www.wmviv.com/iptv/bc2t.php?id=ymkt
 大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -87,11 +90,16 @@ CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 乐游频道,#https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 哈哈炫动,#https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
+动漫秀场,#https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
+金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
 CHC家庭影院HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
@@ -134,6 +142,7 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 欢笑剧场,http://111.22.153.159:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 法治天地,http://111.22.153.159:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 七彩戏剧,http://111.22.153.159:35455/itv/5000000011000031116.m3u8?cdn=bestzb
+动漫秀场,http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 游戏风云,http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 生活时尚,http://111.22.153.159:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
@@ -146,6 +155,8 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 睛彩青少,#http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 睛彩广场舞,#http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
+CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
+CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
 凤凰资讯台,http://101.35.240.114:88/phenix.php?id=fhzx
 北京纪实科教8K,http://101.35.240.114:88/brtv8k.php
 重温经典,http://101.35.240.114:88/live.php?id=重温经典
@@ -214,6 +225,7 @@ TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
@@ -234,6 +246,7 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 年代新闻,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 东森财经,http://live4play.uk/livehttpplay?channel_id=20078
+东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
 东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
 美亚电影,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
@@ -246,6 +259,7 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 MOMO TV,rtmp://f13h.mine.nu/sat/tv761
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -296,6 +310,7 @@ CHU,https://cdn6.163189.xyz/163189/chu
 千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
@@ -342,7 +357,9 @@ NewTV 军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003
 NewTV 军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
 NewTV 中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
 NewTV 农业致富,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989
+NewTV 动作电影,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
 NewTV 家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
+NewTV 惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 NewTV 炫舞未来,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
 NewTV 精品萌宠,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
 NewTV 精品体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
@@ -412,9 +429,13 @@ NewTV 爱情喜剧,http://111.22.153.159:35455/itv/2000000003000000010.m3u8?cdn=
 咪咕赛事播52,http://vip.lqcc.xyz:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 咪咕赛事播53,http://vip.lqcc.xyz:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
 卡酷少儿,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
+金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
+优漫卡通,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
 哈哈炫动,#http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
 嘉佳卡通,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
 黑莓动画,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+动漫秀场,http://36.129.204.117:9003//hls/67/index.m3u8
+新动漫,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 黑龙江少儿,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
@@ -500,6 +521,9 @@ NewTV 爱情喜剧,http://111.22.153.159:35455/itv/2000000003000000010.m3u8?cdn=
 西游记续集,http://www.douzhicloud.site:35455/douyu/3113309
 我是特种兵之利刃出鞘,http://www.douzhicloud.site:35455/yy/37999586
 狂飙,http://www.douzhicloud.site:35455/yy/1355142167
+三国演义,http://www.douzhicloud.site:35455/huya/11602081
+西游记,http://www.douzhicloud.site:35455/huya/26355861
+新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
 乌龙闯情关,http://www.douzhicloud.site:35455/huya/26355767
 柳舟计,http://www.douzhicloud.site:35455/huya/23860039
 与凤行,http://www.douzhicloud.site:35455/huya/26355866
@@ -517,6 +541,7 @@ NewTV 爱情喜剧,http://111.22.153.159:35455/itv/2000000003000000010.m3u8?cdn=
 芈月传,http://www.douzhicloud.site:35455/huya/11352975
 楚汉骄雄,http://www.douzhicloud.site:35455/huya/29465854
 寻秦记,http://www.douzhicloud.site:35455/huya/29465848
+封神榜,http://www.douzhicloud.site:35455/huya/29465849
 西游记2,http://www.douzhicloud.site:35455/huya/29465859
 鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 大唐双龙传,http://www.douzhicloud.site:35455/huya/29465850
@@ -599,6 +624,7 @@ BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316
+金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
 茶友频道,http://drive.mxmy.net:8888/udp/239.3.1.165:8001
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261
