@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 04:40:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-17 16:53:20,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -257,6 +257,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 重庆卫视,http://mgsp-zy2.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260215080209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260215080209&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=abcb9a2ebb25ac5bf5b8e36ac904b5e4&sv=10004&ct=android
 重庆卫视,http://mgsp-tx2.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260216060219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260216060219&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=adc3464f37362dd62206e7804662e56d&sv=10004&ct=android
+重庆卫视,http://mgsp-hs2.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260217084019&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260217084019&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5d392487b65c1f9cf59ca5f3d289d78d&sv=10004&ct=android
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 东方卫视,https://migu.188766.xyz/?migutoken=e698760d45866f00efe097f819001f24&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -408,6 +409,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 凤凰香港,https://mgev.188766.xyz/?migutoken=edb7f10bff9f71b5bb440982eb522b96&id=fhhk&pp=1
 凤凰香港,https://mgev.188766.xyz/?migutoken=645e4c7b153c4ca9b43d1dfab24fa0c9&id=hk_fhhk&type=dy
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
