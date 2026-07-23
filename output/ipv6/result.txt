@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 18:45:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-23 18:41:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -202,12 +202,14 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 浙江卫视4K,https://migu.188766.xyz/?migutoken=861afbd0e399b84c1482da686017f179&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=aa6910f271042ec4920ad43e27c47984&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=e840c5c29318c0237eb217076638c276&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+江苏卫视4K,https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
 深圳卫视4K,https://migu.188766.xyz/?migutoken=dccca2b55855417c1288ab0cd7de47d5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=f8ec50f2717c063b8f19040b94cb3d12&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=765a998f1dafde90262c0ab58f1ce460&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=04bdaa1bcfdac04a91fac9ae7ef5821a&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=177d456a24901345657286b6c6718514&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视4K,https://migu.188766.xyz/?migutoken=23ce32a4a947bc365033c5980f10d75f&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+山东卫视4K,https://live.chinacert.cftest5.cn/zgst/live/shandong4k
 四川卫视4K,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视4K,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
 四川卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
